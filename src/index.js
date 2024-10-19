@@ -10,7 +10,7 @@ function App(){
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/">
+        <Route path="/DevLog">
           <Route index element={<RepoIndex />} />
         </Route>
       </Routes>
