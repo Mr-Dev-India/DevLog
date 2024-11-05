@@ -71,6 +71,17 @@ function RepoIndex() {
                     ))}
                 </tbody>
             </table>
+                <footer className="text-center mt-5" style={{ color: '#343a40', backgroundColor: '#f8f9fa', padding: '20px', fontSize: '0.9rem' }}>
+                    <p style={{ margin: 0 }}>
+                        <strong>Contact Information:</strong> 
+                    </p>
+                    <p style={{ margin: '5px 0' }}>
+                        Email: <a href="mailto:rishav21556@iiitd.ac.in" style={{ textDecoration: 'none', color: '#007bff' }}>rishav21556@iiitd.ac.in</a>, <a href="mailto:2003.rishav.raj@gmail.com" style={{ textDecoration: 'none', color: '#007bff' }}>2003.rishav.raj@gmail.com</a>
+                    </p>
+                    <p style={{ margin: '5px 0' }}>
+                        LinkedIn: <a href="https://www.linkedin.com/in/rishav-raj-710765262" target="_blank" style={{ textDecoration: 'none', color: '#007bff' }}>linkedin.com/in/rishavraj</a>
+                    </p>
+                </footer>
         </div>
     );
 }
