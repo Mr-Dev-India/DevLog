@@ -10,7 +10,8 @@ function RepoIndex() {
             domain: 'Prompt Engineering', 
             subItems: [
                 { label: 'Why "Prompts" matter ?', url: 'https://everlasting-trapezoid-82d.notion.site/Why-Prompts-Matter-10374e3a5a0f80e5a1dec5e37e55f449' },
-            ] 
+                {label: 'Basics of Prompt', url: 'https://everlasting-trapezoid-82d.notion.site/Basics-of-Prompt-12574e3a5a0f80a3b9a8ea4c72e2fbfc'},
+            ]
         },
     ];
 
